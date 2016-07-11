@@ -1,0 +1,17 @@
+﻿<Window x:Class="ASR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="500">
+    <Grid>
+        <Label Content="AUTOMATIC SPEECH RECOGNITION MACHINE" FontSize="16" Height="28" HorizontalAlignment="Center" Margin="49,12,28,0" Name="label1" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Center" FontSize="16" Margin="10,80,0,0" Name="textBlock1" VerticalAlignment="Top" >
+            <Hyperlink Click="Hyperlink_Click">1. Train a new word</Hyperlink>
+        </TextBlock>
+        <TextBlock Height="23" HorizontalAlignment="Center" FontSize="16" Margin="10,140,0,0" Name="textBlock2" VerticalAlignment="Top" >
+            <Hyperlink Click="Hyperlink_Click_1">2. List of added words</Hyperlink>
+        </TextBlock>
+        <TextBlock Height="23" HorizontalAlignment="Center" FontSize="16" Margin="10,200,0,0" Name="textBlock3" VerticalAlignment="Top" >
+            <Hyperlink Click="Hyperlink_Click_2">3. Test a word</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>

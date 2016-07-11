@@ -1,0 +1,4 @@
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\SpeechRecognition\obj\x86\Debug\SpeechRecognition.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\SpeechRecognition\obj\x86\Debug\SpeechRecognition.pdb

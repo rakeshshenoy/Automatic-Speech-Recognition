@@ -1,0 +1,8 @@
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Debug\PlayerTester.csprojResolveAssemblyReference.cache
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Debug\PlayerTester.Properties.Resources.resources
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Debug\PlayerTester.csproj.GenerateResource.Cache
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\bin\Debug\PlayerTester.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\bin\Debug\PlayerTester.pdb
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\bin\Debug\WinSound.dll
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Debug\PlayerTester.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Debug\PlayerTester.pdb

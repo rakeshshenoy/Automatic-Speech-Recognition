@@ -1,0 +1,8 @@
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\obj\x86\Debug\PlayerTrainer.csprojResolveAssemblyReference.cache
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\obj\x86\Debug\PlayerTrainer.Properties.Resources.resources
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\obj\x86\Debug\PlayerTrainer.csproj.GenerateResource.Cache
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\bin\Debug\PlayerTrainer.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\bin\Debug\PlayerTrainer.pdb
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\bin\Debug\WinSound.dll
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\obj\x86\Debug\PlayerTrainer.exe
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTrainer\obj\x86\Debug\PlayerTrainer.pdb

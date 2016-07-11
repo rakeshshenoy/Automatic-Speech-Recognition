@@ -1,0 +1,2 @@
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Release\PlayerTester.Properties.Resources.resources
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\PlayerTester\obj\x86\Release\PlayerTester.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\MainWindow.baml
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\MainWindow.g.cs
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\App.g.cs
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\ASR_MarkupCompile.cache
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\ASR.g.resources
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\ASR.Properties.Resources.resources
+C:\Users\kirangda\documents\visual studio 2010\Projects\ASR\ASR\ASR\obj\x86\Release\ASR.csproj.GenerateResource.Cache
